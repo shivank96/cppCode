@@ -9,6 +9,7 @@ void insertIntoArray(int a[],int n)
 		cin>>a[i];
 	}
 }
+
 void sortArray(int a[],int n)
 {
 	for(int i=0;i<n;i++)
