@@ -59,7 +59,7 @@ void properZeroShiftOnSort(int a[],int n)
 	    }
 	}
 }
-void diplayToDebug(int a[],int n)
+void displayToDebug(int a[],int n)
 {
 	for(int i=0;i<n;i++)
 	{
@@ -78,15 +78,15 @@ int main()
 	sortArray(a,n);
 	//values before removing duplicates
 	cout<<"sorted elements in an array before removing duplicates"<<endl;
-	diplayToDebug(a,n);
+	displayToDebug(a,n);
 	//removing duplicates from sorted array
 	removeDuplicates(a,n);
 	//values after removing duplicates
 	cout<<"sorted elements in an array after removing duplicates and unproper shift "<<endl;
-	diplayToDebug(a,n);
+	displayToDebug(a,n);
 	//Proper shifting of zeros at the end of array
 	properZeroShiftOnSort(a,n);
 	//values after proper shifting of zeros
 	cout<<"sorted elements in an array after removing duplicates and proper shift"<<endl;
-	diplayToDebug(a,n);
+	displayToDebug(a,n);
 }
