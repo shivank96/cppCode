@@ -3,24 +3,24 @@ This repository is the collection of all c++ concepts including oops and stl cla
 
 # concepts
 :skull: Control statements<br/>
-   :point_right:selection statements.
-   :skull_and_crossbones:iterative statements
-   :skull_and_crossbones:jumping statements
-:skull: [Arrays](https://github.com/shivank96/cppCode/tree/main/Arrays)
-:skull: strings
-:skull: Functions
-   :skull_and_crossbones: Function overloading
-   :skull_and_crossbones: Function templates
-:skull: Pointers
-:skull: Oops
-   :skull_and_crossbones: Abstraction
-   :skull_and_crossbones: Encapsulation
-   :skull_and_crossbones: Inheritance
-      :skull:Base class pointer derived class object
-   :skull_and_crossbones: Polymorphism
-      :skull:Function overriding
-      :skull:virtual functions
-:skull: Friend and statc members
-:skull: Exception handling
-:skull: I/O streams
-:skull: STL Classes
+   :skull_and_crossbones:selection statements<br/>
+   :skull_and_crossbones:iterative statements<br/>
+   :skull_and_crossbones:jumping statements<br/>
+:skull: [Arrays](https://github.com/shivank96/cppCode/tree/main/Arrays)<br/>
+:skull: strings<br/>
+:skull: Functions<br/>
+   :skull_and_crossbones: Function overloading<br/>
+   :skull_and_crossbones: Function templates<br/>
+:skull: Pointers<br/>
+:skull: Oops<br/>
+   :skull_and_crossbones: Abstraction<br/>
+   :skull_and_crossbones: Encapsulation<br/>
+   :skull_and_crossbones: Inheritance<br/>
+      :point_right:Base class pointer derived class object<br/>
+   :skull_and_crossbones: Polymorphism<br/>
+      :point_right:Function overriding<br/>
+      :point_right:virtual functions<br/>
+:skull: Friend and statc members<br/>
+:skull: Exception handling<br/>
+:skull: I/O streams<br/>
+:skull: STL Classes<br/>
