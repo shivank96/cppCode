@@ -26,7 +26,7 @@ This repository is the collection of all c++ concepts including oops and stl cla
        -   :point_right:Function overriding<br/>
        -   :point_right:virtual functions<br/>
 
-:skull: Friend and statc members<br/>
+:skull: Friend and static members<br/>
 
 :skull: Exception handling<br/>
 
