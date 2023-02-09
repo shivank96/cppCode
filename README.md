@@ -6,7 +6,7 @@ This repository is the collection of all c++ concepts including oops and stl cla
    1.selection statements
    2.iterative statements
    3.jumping statements
-3. Arrays
+3. [Arrays](https://github.com/shivank96/cppCode/tree/main/Arrays)
 4. strings
 5. Functions
    1. Function overloading
