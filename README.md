@@ -3,7 +3,7 @@ This repository is the collection of all c++ concepts including oops and stl cla
 
 # concepts
 :skull: Control statements<br/>
-         -:skull_and_crossbones:selection statements<br/>
+            -:skull_and_crossbones:selection statements<br/>
                                  -:skull_and_crossbones:iterative statements<br/>
                                  -:skull_and_crossbones:jumping statements<br/>
 :skull: [Arrays](https://github.com/shivank96/cppCode/tree/main/Arrays)<br/>
