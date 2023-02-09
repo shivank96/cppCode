@@ -3,24 +3,24 @@ This repository is the collection of all c++ concepts including oops and stl cla
 
 # concepts
 :skull: Control statements
-   1.selection statements
-   2.iterative statements
-   3.jumping statements
-3. [Arrays](https://github.com/shivank96/cppCode/tree/main/Arrays)
-4. strings
-5. Functions
-   1. Function overloading
-   2. Function templates
-6. Pointers
-7. Oops
-   1. Abstraction
-   2. Encapsulation
-   3. Inheritance
-      1.Base class pointer derived class object
-   4. Polymorphism
-      1.Function overriding
-      2.virtual functions
-8. Friend and statc members
-9. Exception handling
-10. I/O streams
-11. STL Classes
+   :skull_and_crossbones:selection statements
+   :skull_and_crossbones:iterative statements
+   :skull_and_crossbones:jumping statements
+:skull: [Arrays](https://github.com/shivank96/cppCode/tree/main/Arrays)
+:skull: strings
+:skull: Functions
+   :skull_and_crossbones: Function overloading
+   :skull_and_crossbones: Function templates
+:skull: Pointers
+:skull: Oops
+   :skull_and_crossbones: Abstraction
+   :skull_and_crossbones: Encapsulation
+   :skull_and_crossbones: Inheritance
+      :skull:Base class pointer derived class object
+   :skull_and_crossbones: Polymorphism
+      :skull:Function overriding
+      :skull:virtual functions
+:skull: Friend and statc members
+:skull: Exception handling
+:skull: I/O streams
+:skull: STL Classes
