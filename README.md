@@ -11,7 +11,7 @@ This repository is the collection of all c++ concepts including oops and stl cla
 :skull: Functions<br/>
   - :skull_and_crossbones: Function overloading<br/>
   - :skull_and_crossbones: Function templates<br/>
-<br/>
+
 :skull: Pointers<br/>
 :skull: Oops<br/>
   - :skull_and_crossbones: Abstraction<br/>
